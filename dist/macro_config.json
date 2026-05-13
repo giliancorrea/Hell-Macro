@@ -1,0 +1,7 @@
+{
+    "hotkey": "2",
+    "action": "X",
+    "interval": 500.0,
+    "mode": "infinite",
+    "count": "10"
+}

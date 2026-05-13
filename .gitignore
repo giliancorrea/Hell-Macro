@@ -1,0 +1,14 @@
+# Ignorar pastas de compilação do PyInstaller
+build/
+dist/
+*.spec
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar configurações locais do usuário
+macro_config.json
+
+# Ignora o log
+macro_history.log

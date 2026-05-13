@@ -1,0 +1,33 @@
+======================================================
+                      HELL MACRO
+======================================================
+
+# SOBRE O SOFTWARE
+O Hell Macro é uma ferramenta avançada de automação desenvolvida para simular repetições rápidas de atalhos, teclas de teclado ou cliques de mouse. Ele possui uma interface gráfica intuitiva com sistema de abas, operando em segundo plano de forma otimizada para não congelar o seu computador.
+
+# PRINCIPAIS FUNCIONALIDADES
+- Controle de Velocidade: Ajuste o intervalo exato entre cada repetição (de 100ms até 5 segundos).
+- Modos de Repetição: 
+  > Infinito: Spamma a ação indefinidamente até que você aperte o botão de parar.
+  > Finito: Defina uma quantidade exata de repetições (limite de 100x). O macro para sozinho ao terminar.
+- Hotkeys Personalizáveis: Captura de tecla em tempo real. Você escolhe qual botão do seu teclado vai ser o gatilho para iniciar/parar o macro.
+- Ações Variadas: Opções que vão desde colar textos (Ctrl+V -> Enter), atalhos de sistema, todas as teclas alfanuméricas, F1-F12, Numpad, até cliques do mouse (Esquerdo, Direito e Meio).
+- Auto-Save (Cache): Suas preferências de velocidade, hotkey e ação escolhida são salvas automaticamente. Ao reabrir o programa, tudo estará exatamente como você deixou.
+
+# COMO USAR
+1. Execute o aplicativo "Hell Macro".
+2. Na aba "Principal", regule a velocidade e escolha se deseja repetir de forma infinita ou com um limite de vezes.
+3. Na aba "Hotkey Conf", clique em "Capturar Tecla" e aperte o botão que deseja usar como gatilho. Logo abaixo, selecione qual será a ação repetida pelo macro.
+4. Pressione a sua Hotkey configurada em qualquer lugar (mesmo com o macro minimizado) para iniciar.
+5. Pressione a MESMA Hotkey para interromper instantaneamente.
+
+# ⚠️ MEDIDA DE SEGURANÇA (FAILSAFE)
+Caso você ative o macro por engano em uma velocidade muito alta e perca o controle do computador, basta arrastar o cursor do mouse violentamente para o CANTO SUPERIOR ESQUERDO da sua tela. Isso ativará a trava de segurança do sistema e abortará a automação imediatamente.
+
+# ARQUIVOS DO SISTEMA
+- O arquivo "macro_config.json" é gerado automaticamente na mesma pasta do aplicativo na primeira vez que você o fecha. Ele armazena o seu cache. Se apagá-lo, o macro voltará para as configurações originais de fábrica.
+- NOTA: Para funcionar em alguns jogos mais restritos (como Minecraft, League of Legends, etc.), pode ser necessário executar o Hell Macro como Administrador.
+
+======================================================
+Desenvolvido por Gilian
+======================================================
