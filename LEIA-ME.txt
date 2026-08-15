@@ -21,7 +21,7 @@ O Hell Macro é uma ferramenta avançada de automação desenvolvida para simula
 4. Pressione a sua Hotkey configurada em qualquer lugar (mesmo com o macro minimizado) para iniciar.
 5. Pressione a MESMA Hotkey para interromper instantaneamente.
 
-# ⚠️ MEDIDA DE SEGURANÇA (FAILSAFE)
+#MEDIDA DE SEGURANÇA (FAILSAFE)
 Caso você ative o macro por engano em uma velocidade muito alta e perca o controle do computador, basta arrastar o cursor do mouse violentamente para o CANTO SUPERIOR ESQUERDO da sua tela. Isso ativará a trava de segurança do sistema e abortará a automação imediatamente.
 
 # ARQUIVOS DO SISTEMA
